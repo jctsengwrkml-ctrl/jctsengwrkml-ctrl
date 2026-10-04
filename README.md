@@ -1,26 +1,17 @@
 # Hi, I'm JC 👋
+Freelance data specialist in Metro Manila: SQL data cleaning and OSINT research.
 
-Implementation consultant (UKG WFM / Time & Labor) based in Metro Manila, with a background in OSINT, data investigations, and infosec.
+## What I do
+- Clean, deduplicate and merge messy datasets in PostgreSQL, MySQL and SQL Server
+- Investigate companies and vessels using public registries
+- Set up IAM and security basics for small teams
 
-## What I'm working on
-- 🕒 Sanitized UKG Time & Labor SQL configs and reference queries
-- 🎮 Single-player game reverse engineering (memory analysis, trainers)
-- 🚢 AIS / maritime data cleaning pipelines in PostgreSQL
-
-## Projects
-| Repo | What it is |
-|---|---|
-| [wfm-sql-configs](https://github.com/jctsengwrkml-ctrl/wfm-sql-configs) | Time & Labor SQL patterns, no client data |
-| [game-trainers-singleplayer](https://github.com/jctsengwrkml-ctrl/game-trainers-singleplayer) | Cheat Engine tables and small trainers, with writeups |
-| [ais-data-cleaning-demo](https://github.com/jctsengwrkml-ctrl/ais-data-cleaning-demo) | Dedup, indexing, and timezone-aware timestamps on a synthetic dataset |
-| [progress-log](https://github.com/jctsengwrkml-ctrl/progress-log) | Weekly notes on what I built and learned |
+## Featured project
+**[ais-data-cleaning-demo](https://github.com/jctsengwrkml-ctrl/ais-data-cleaning-demo)**: deduplication, unique indexing and timezone-aware timestamps on a synthetic dataset.
 
 ## Toolbox
-Python · C# · SQL (PostgreSQL, MySQL, SQL Server) · Cheat Engine · Burp Suite
+Python · SQL (PostgreSQL, MySQL, SQL Server) · Burp Suite · OSINT
 
-## Currently learning
-- UKG WFM (WFMgr) and Boomi integrations
-- Advanced SQL for Time & Labor
-
-## Contact
-[LinkedIn](https://www.linkedin.com/in/jc-t-362198158) · j4399804@gmail.com
+## Work with me
+Portfolio: https://jctsengwrkml-ctrl.github.io
+Email: jctsengwrkml@gmail.com
